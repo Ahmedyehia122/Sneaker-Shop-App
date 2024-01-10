@@ -1,9 +1,16 @@
-# 😊 Sneaker Shop App 
+# 😊 Sneaker_Shop_App 
 
  A sports shoe-selling application that allows users to browse and purchase a variety of
   athletic shoes 
 
+  
+
  ## 🚀 Getting Started
+
+
+ ## 📸 Screen Record
+ 
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/78e2e694-3a02-4a04-9e78-7fc61082673d"></video>
 
  ## 🏖️ Screenshots 
  
