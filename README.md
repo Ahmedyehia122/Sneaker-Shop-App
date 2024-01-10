@@ -33,8 +33,13 @@
 
 
  #### google_nav_bar: ^5.0.6
+   [google_nav_bar ](https://pub.dev/packages/google_nav_bar) - A modern google style nav bar for flutter.
+
  #### provider: ^6.0.5
-  
+   [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable (State management).
+
+
+  🌸🌸  Thank You For Your Time 🌸🌸
   
 
 
