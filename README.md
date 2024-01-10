@@ -29,7 +29,7 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/1563c5f4-8397-46e7-a77d-e0427d19818a" width="200" >
  </div>
 
- ## 🛠 Dependencies
+ ## 🏹 Dependencies
 
 
  #### google_nav_bar: ^5.0.6
