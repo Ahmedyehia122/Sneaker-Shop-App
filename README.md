@@ -2,6 +2,8 @@
 
  A sports shoe-selling application that allows users to browse and purchase a variety of
   athletic shoes 
+  
+<br/>
 
   
 
@@ -11,6 +13,8 @@
  ## 📸 Screen Record
  
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/78e2e694-3a02-4a04-9e78-7fc61082673d"></video>
+
+<br/>
 
  ## 🏖️ Screenshots 
  
@@ -28,9 +32,10 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/ebafb9a7-f3ae-459b-a168-17cc1cb3ff98" width="200" >
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/1563c5f4-8397-46e7-a77d-e0427d19818a" width="200" >
  </div>
+ 
+<br/>
 
  ## 🏹 Dependencies
-
 
  #### google_nav_bar: ^5.0.6
    [google_nav_bar ](https://pub.dev/packages/google_nav_bar) - A modern google style nav bar for flutter.
@@ -38,8 +43,30 @@
  #### provider: ^6.0.5
    [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable (State management).
 
+   <br/>
+   
+ ## 🖊️ Contributing
 
-  🌸🌸  Thank You For Your Time 🌸🌸
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+  
+ ## 🤝Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+
+<br/>
+
+  # 🌸🌸  Thank You For Your Time 🌸🌸
   
 
 
